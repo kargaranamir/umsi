@@ -6,6 +6,8 @@ The model file, in [Keras H5 format](https://www.tensorflow.org/guide/keras/save
 
 The provided [Jupyter notebook](umsi_simple_inference_from_full_model.ipynb) contains the model specification and shows how to load and run the Keras model on some sample images.
 
+- You can run this code on [google colab]([url](https://colab.research.google.com/github/kargaranamir/umsi/blob/master/umsi_simple_inference_from_full_model.ipynb)) with tensorflow2.
+
 If you use this code, please consider citing:
 ```
 Fosco, C., Casser, V., Kumar Bedi, A., O'Donovan, P., Hertzmann, A., Bylinskii, Z.
